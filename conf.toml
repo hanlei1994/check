@@ -1,0 +1,28 @@
+[check]
+hostPort = "0.0.0.0:7789"
+
+ipPort = [""]
+
+[SendMsg]
+AppID = 
+AppKey = 
+MsgGw = 
+To =
+
+[db]   #pod db
+addr = 
+dbuser =
+dbpass = 
+
+[mongo]
+conn = []
+replset_authdb =
+replset_user = 
+replset_passwd = 
+
+[es]
+eslist = []
+nodes = 
+
+
+
